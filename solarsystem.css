@@ -8,13 +8,13 @@
 }
 
 h1 {
-    font-family: DestructobeamB, cursive;
+    font-family: DestructobeamB, monospace;
     color: white;
     font-size: 30px;
 }
 
 h2 {
-    font-family: DestructobeamR, cursive;
+    font-family: DestructobeamR, monospace;
     padding-left: 20px;
     padding-bottom: -5px;
     text-align: left;
